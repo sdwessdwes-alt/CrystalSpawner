@@ -15,7 +15,6 @@
 
 This is a server-side plugin for multiplayer that spawns and drives in-game objects based on an editable node tree. You can manually place objects, generate large batches from text or images, brush objects directly with your mouse, and make objects loop along a path with custom rotations.
 
-Spawning and driving only happen when you are the server and the game world is generated.
 
 ## Table of Contents
 
